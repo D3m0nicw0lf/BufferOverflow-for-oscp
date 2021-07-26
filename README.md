@@ -3,7 +3,7 @@ learn Buffer Overflows
 
 # all the tools needed for the study:
 
-Windows 7 Evaluation: https://gist.github.com/anonymous/c644cac9d77e2793742c13cf10d26cb8 (you can run on Windows 10 too) 
+Windows 7 Evaluation: https://gist.github.com/anonymous/c644cac9d77e2793742c13cf10d26cb8 (you can run on Windows 10 also) 
 
 Immunity Debugger: https://www.immunityinc.com/products/debugger/ 
 
