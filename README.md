@@ -11,4 +11,5 @@ Mona.py: https://github.com/corelan/mona
 
 vulnerabe software to practice: https://github.com/freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice or https://drive.google.com/drive/folders/1KTvn-WHBXH8aFSQbgajzrdNBEwMRytbr
 
-study link: https://www.corelan.be/index.php/search/buffer+overflow/
+# study link: https://www.corelan.be/index.php/search/buffer+overflow/ 
+# 2) https://tcm-sec.com/buffer-overflows-made-easy/
